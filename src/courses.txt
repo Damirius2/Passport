@@ -1,0 +1,7 @@
+Студент: Сергей Васильев
+ID: 1007
+Курсы:
+- Java Programming
+- Database Systems
+- Algorithms
+- Web Development
